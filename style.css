@@ -1,0 +1,79 @@
+h1{
+    color:teal;
+}
+b{
+    color:turquoise;
+}
+p{
+    color:darkblue;
+    font-size: 120%;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:20%;
+    padding-left: 10%;
+}
+.half-width img{
+    height: 100%;
+    width:150%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+section{
+    display: flex;
+}
+h2{
+    color:teal;
+}
+.Ridoy{
+    width: 20%;
+    padding-right: 20%;
+}
+.Ridoy img{
+   width: 150%;
+   padding: 10%;
+   
+    
+}
+.Ridoy{
+    padding-left:4%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    box-shadow: 2px 4px 4px 4px;
+}
+footer{
+    text-align:center;
+    font-size: 250%;
+    color: teal;
+    
+
+}
+.jj{
+    text-align: center;
+    font-size: 100%;
+}
+section{
+    display: flex;
+}
+.oo{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left:2%;
+    box-shadow: 4px 4px 4px 4px grey;
+}
+
+.gg{
+    border: 5px solid black;
+    border-radius: 15px;
+    background-color:brown;
+
+}
